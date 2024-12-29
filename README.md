@@ -1,11 +1,6 @@
 # Workshop-recipes-app-rn
-A simple app to master the basics of React Native (Navigation and basic components)
+A simple app to master the basics of React Native (Navigation and basic components + Jest)
 
-Please add a little star if you liked our repo, it will help us to get better and to create more content for you to learn with :)
-
-Created by [@Vincent-DARIBO](https://github.com/Vincent-DARIBO) and [@taniabezancon](https://github.com/taniabezancon).
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 ## Table of contents
 * [General info](#general-info)
