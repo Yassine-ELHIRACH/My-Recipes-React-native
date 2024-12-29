@@ -6,6 +6,7 @@ A simple app to master the basics of React Native (Navigation and basic componen
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Screens](#screens)
 
 ## General info
 
@@ -101,4 +102,17 @@ test('changes text when button is pressed', () => {
 
   expect(text).toHaveTextContent('Button pressed!');
 });
+```
+## Screens
+Homepage
+![Homepage](./screenshots/homepage.png)
+
+Add a recipe
+![AddRecipe](./screenshots/addPage.png)
+
+My recipies
+![myRecipies](./screenshots/myRecipies.png)
+
+Favories
+![favories](./screenshots/favorties.png)
 
