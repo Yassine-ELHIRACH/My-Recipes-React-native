@@ -104,15 +104,15 @@ test('changes text when button is pressed', () => {
 });
 ```
 ## Screens
-Homepage
+### Homepage
 ![Homepage](./screenshots/homepage.png)
 
-Add a recipe
+### Add a recipe
 ![AddRecipe](./screenshots/addPage.png)
 
-My recipies
+### My recipies
 ![myRecipies](./screenshots/myRecipies.png)
 
-Favories
+### Favories
 ![favories](./screenshots/favorties.png)
 
